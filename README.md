@@ -25,7 +25,7 @@ Connect the Raspberry Pi Camera Module to the Raspberry Pi board following the m
 Clone this repository to your Raspberry Pi:
 shell
 Copy code
-git clone https://github.com/your-username/Raspberry-Pi-Camera-Model.git
+git clone https://github.com/Raafey-Khan/RasberryPI-Camera-Model.git
 Navigate to the project directory:
 shell
 Copy code
