@@ -9,6 +9,7 @@ Motion Detection: The project uses OpenCV to detect motion in the camera's field
 Real-Time Video Feed: The application provides a live video feed from the Raspberry Pi camera module.
 Object Highlighting: Moving objects are highlighted with bounding boxes for easy identification.
 Alert Sound: An alert sound is played when significant motion is detected.
+
 # Prerequisites
 Before setting up the Raspberry Pi Camera Model project, make sure you have the following:
 
