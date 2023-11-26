@@ -1,7 +1,6 @@
 # Raspberry Pi Camera Model
 ![maxresdefault](https://github.com/Raafey-Khan/Rasberry_Pi0w2/assets/113880768/5d352c49-606b-44a0-bb80-efce1918cd25)
 
-
 Raspberry Pi Camera Model is a project that utilizes computer vision techniques to detect motion and provide real-time video surveillance using a Raspberry Pi and a Raspberry Pi camera module. This project enables you to set up a reliable surveillance system using Python, OpenCV, and the Raspberry Pi camera.
 
 # Features
